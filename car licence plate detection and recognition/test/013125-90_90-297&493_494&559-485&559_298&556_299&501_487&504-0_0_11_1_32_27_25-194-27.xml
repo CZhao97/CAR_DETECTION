@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>013125-90_90-297&amp;493_494&amp;559-485&amp;559_298&amp;556_299&amp;501_487&amp;504-0_0_11_1_32_27_25-194-27.jpg</filename>
+	<path>/Users/isaaczhang/Desktop/darknet/test/013125-90_90-297&amp;493_494&amp;559-485&amp;559_298&amp;556_299&amp;501_487&amp;504-0_0_11_1_32_27_25-194-27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>485</ymin>
+			<xmax>503</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

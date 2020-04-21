@@ -1,0 +1,13 @@
+/Users/isaaczhang/desktop/darknet/test/020625-91_86-228&488_516&563-498&558_239&551_237&492_496&498-0_0_25_4_31_32_33-208-21.jpg
+/Users/isaaczhang/desktop/darknet/test/011875-90_90-201&452_389&519-386&507_213&509_213&455_387&452-0_0_19_32_15_27_32-190-25.jpg
+/Users/isaaczhang/desktop/darknet/test/020625-85_95-185&499_418&593-400&565_202&584_202&515_400&497-0_0_15_24_15_25_29-186-46.jpg
+/Users/isaaczhang/desktop/darknet/test/test.jpg
+/Users/isaaczhang/desktop/darknet/test/010625-90_89-283&483_486&547-476&536_302&534_302&485_475&488-0_0_8_26_22_26_30-207-8.jpg
+/Users/isaaczhang/desktop/darknet/test/05875-90_85-113&449_542&584-541&570_128&574_118&461_531&458-0_0_22_30_26_29_17-200-49.jpg
+/Users/isaaczhang/desktop/darknet/test/013125-90_86-258&469_477&537-463&531_278&532_274&475_459&474-0_0_8_33_32_31_2-198-23.jpg
+/Users/isaaczhang/desktop/darknet/test/013125-90_90-297&493_494&559-485&559_298&556_299&501_487&504-0_0_11_1_32_27_25-194-27.jpg
+/Users/isaaczhang/desktop/darknet/test/04625-107_73-278&551_569&734-554&721_293&639_294&573_554&655-0_0_24_27_33_31_26-187-72.jpg
+/Users/isaaczhang/desktop/darknet/test/2.jpg
+/Users/isaaczhang/desktop/darknet/test/016875-90_90-248&503_508&568-501&567_259&567_260&509_502&509-0_0_4_3_24_24_30-189-30.jpg
+/Users/isaaczhang/desktop/darknet/test/3.jpg
+/Users/isaaczhang/desktop/darknet/test/1.jpg
